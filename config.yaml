@@ -16,6 +16,7 @@ params:
       url: about/
     - name: Get in touch
       url: contact/
+      
   sidebarAbout:
     - I am a Health Economist living in Perth (Whadjuk Noongar Boodja)
     - I have been teaching myself R and needed a place to keep little notes. Hopefully it helps others too

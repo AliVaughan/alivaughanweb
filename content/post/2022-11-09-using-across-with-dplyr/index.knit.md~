@@ -1,0 +1,11 @@
+---
+title: using across() with dplyr
+author: Ali Vaughan
+date: '2022-11-09'
+slug: []
+categories: [r notes]
+tags: [dplyr, selecting columns, across, mutate, select]
+---
+I needed to select some columns based on certain criteria and then change the object class. I did this: 
+
+
