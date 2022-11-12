@@ -2,7 +2,7 @@
 title: Find available data sets
 author: Ali Vaughan
 date: '2022-11-12'
-slug: []
+slug: [post]
 categories: [notes to myself]
 tags: [datasets, codesnips]
 ---
