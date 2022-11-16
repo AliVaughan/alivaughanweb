@@ -1,7 +1,7 @@
 ---
 date: "2022-11-09T18:25:22+05:30"
 draft: false
-image: img/portfolio/a4-paper.jpg
+image: img/portfolio/a4-paper.jpg ~/Documents/web/alivaughanweb/static/img/portfolio
 showonlyimage: true
 title: using dbplyr
 weight: 0

@@ -16,6 +16,8 @@ params:
       url: about/
     - name: Get in touch
       url: contact/
+    - name: Posts
+      url: post/
       
   sidebarAbout:
     - I am a Health Economist living in Perth (Whadjuk Noongar Boodja)
